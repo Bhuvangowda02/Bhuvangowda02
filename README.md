@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I'm a passionate developer focused on building robust and scalable applications. My work spans across full-stack web development, mobile app development (especially using Kotlin and React Native).I love turning ideas into efficient, maintainable code.
+I'm a passionate developer focused on building  applications. My work spans across web development, mobile app development (especially using Kotlin).I love turning ideas into efficient, maintainable code.
 
 *   🌍  I'm based in Bengaluru, Karnataka, INDIA
 *   ✉️  You can contact me at [gowdabhuvan995@gmail.com](mailto:gowdabhuvan995@gmail.com)### Skills 
